@@ -5,3 +5,5 @@ numpy
 scikit-learn
 torch
 requests
+py3Dmol
+torch-geometric
